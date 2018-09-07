@@ -1,7 +1,8 @@
 # Style-Maker
 git clone https://github.com/profionaldhim/Style-Maker
 cd Style-Maker
-chmod +x Style-Maker.sh
+chmod +x Style-Maker.sh install.sh
+bash install.sh 
 bash Style-Maker.sh 
 after that check 1 then insert your title ex:  "M-Info"
 then insert your name from list ex: pagga
