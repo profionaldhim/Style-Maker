@@ -5,5 +5,5 @@ apt update && apt upgrade
 pkg install figlet -y
 pkg install toilet -y
 gem install lolcat
-touch output/bash.txt
-touch output/boarder.txt
+touch output/bash.bashrc
+touch output/boarder.baahrc
